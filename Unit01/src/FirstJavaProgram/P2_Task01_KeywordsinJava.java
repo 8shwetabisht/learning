@@ -17,7 +17,7 @@ package FirstJavaProgram;
  *  - function 
  *  - class 
  *  - etc.
- */
+ 
 
 public class P2_Task01_KeywordsinJava {
 
@@ -56,3 +56,4 @@ class ABC{
 		System.out.println("Another class!");
 	}
 }
+*/

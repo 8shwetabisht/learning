@@ -5,7 +5,7 @@
  * public Class+Within the Package+Outside the Package
  * Default:No Keywords,Package-private{Not Outside the Package }
  * 
- */
+ 
  package FirstJavaProgram;
 
 public class P2_Task02_ConstantsinJava {
@@ -43,5 +43,6 @@ class NewClass{
 	System.out.println(P2_Task02_ConstantsInJava.Pi);
 	}
 }
+*/
 	
 
