@@ -13,7 +13,7 @@ import java.util.Scanner;
   nextFloat()   Read a float value from the user
   nextInt()     Read a int value from the user
   nextLine()    Read a String value from the user
-  nextLong()    Read a short value from the user
+  nextLong()    Read a long value from the user
   nextShort()   Read a short value from the user
    
    */

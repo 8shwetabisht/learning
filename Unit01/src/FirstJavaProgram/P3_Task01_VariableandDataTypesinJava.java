@@ -15,7 +15,7 @@ package FirstJavaProgram;
  *      - static variables are defined with the STATIC keyword
  *      - Static variables are initialized only once, at the start of the program execution.
  *      - These static variables should be initialized first, before, the initialization of any
- *      
+ *        instance variable
  *   - Data Types in Java?
  *   . Reference OneNote
  *   
